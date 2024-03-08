@@ -41,10 +41,14 @@ https://www.researchgate.net/publication/228380947_Alternative_futures_at_the_Ma
 
 We first wanted to go through the entire process with a custom bot built on ChatGPT 4 to test the workflow and see if we could get to a final output. We trained a custom bot with Dator and Smart's future archetypes foresight methodology and gave the EU policy documents as input (Renovation Wave, EU Circular Economy Plan, Smart and Sustainable Mobility Strategy, New EU Bauhaus). The bot was trained to perform a foresight analysis based on the EU policy documents  We had to reconfigure the bot several times to get to the optimal output. As we weren't satisfied with OpenAI's future image output, we decided to use another [AI model]([url](https://huggingface.co/spaces/tonyassi/image-to-image-SDXL)) using stable diffusion, which was better at doing image to image outputs. 
 
+#### Custom GPT output:
+
 **Image Description:**
+
 The image depicts an urban street scene on what appears to be a sunny day with a mix of clouds. On the left side of the street, there are leafless trees, indicating either winter or early spring before the foliage has returned. There is a street lamp and a small red building with large glass windows, resembling a shop or small commercial building. On the right side, there are taller buildings, seemingly residential or commercial, with a mixture of architectural styles and states of maintenance. One of the buildings is undergoing construction or renovation, as indicated by the scaffolding on its facade. The street itself is quite busy with a row of parked motorcycles at the forefront, a taxi, and other vehicles further down the road. There is a clear pedestrian crossing leading towards the buildings. The image gives an impression of a bustling urban area during a non-peak time of the day.
 
 **Foresight analysis:**
+
 STEEPV Analysis:
 
 Social: The area appears to be a mixed-use neighborhood with both commercial and residential spaces. The density of motorcycles suggests a reliance on motorized individual transport, possibly indicative of social behaviors and the demands of city life.
@@ -64,6 +68,7 @@ How might policies evolve to address the evident transportation modes and needs?
 Next, I will describe detailed future scenarios based on the archetypes of continued growth, collapse, disciplined society, and transformation. Following that, you may choose a preferred scenario, and I will modify the initial description of the picture to reflect that scenario.
 
 **Future Scenarios:**
+
 1. Continued Growth:
 The bustling urban street becomes the epitome of eco-modernist vision. By 2050, this street, once dominated by combustion-engine motorcycles, now thrives with electric bikes and scooters, all neatly docked at solar-powered charging stations. The red building, a former shop, is now a community hub for the exchange of goods and services, operating on a circular economy model. The upper floors are retrofitted with green walls, contributing to air purification and biodiversity. The construction scaffolding is part of a larger initiative to integrate energy-efficient solutions into existing structures, symbolizing the city's commitment to merging historical aesthetic with sustainable innovation. The urban forestry initiative has ensured that trees are now lush, providing shade and reducing the urban heat island effect. Public spaces are reimagined as green corridors, encouraging walking and cycling, and the cityscape is punctuated by pocket parks and urban farms.
 
@@ -77,6 +82,7 @@ By 2050, discipline defines the urban environment. The street has been transform
 A radical transformation of urban living by 2050 paints a new picture. Technological advancements have revolutionized transport, with autonomous vehicles and drones, which cannot be seen in the image but are implied, ensuring efficient and clean movement of people and goods. The red building is now a community tech center, where residents share knowledge and skills for a resilient future. The building under renovation is being transformed into a mixed-use space with communal living areas, workshops, and vertical farms, all powered by renewable energy. Infrastructure is designed to be multi-functional, with roads doubling as water capture and filtration systems. The leafless trees have been replaced by genetically modified varieties that thrive in urban conditions and provide more greenery.
 
 **Future Image Description:**
+
 In the disciplined society scenario by 2050, the urban street scene has undergone a transformation emphasizing efficiency, sustainability, and regulatory compliance, while upholding a high standard of urban living. The once-commercial red building has been repurposed into an energy-positive facility, its roof equipped with an array of solar panels feeding clean energy back into the grid. Where motorcycles once lined the curb, there are now designated spaces for shared electric vehicles, including bikes and scooters, encouraging residents to engage with the city's comprehensive and clean public transportation system.
 
 The buildings flanking the streets display facades retrofitted with advanced insulation materials and self-cleaning air-purifying surfaces, reducing the urban heat island effect and cutting down energy consumption. Windows that automatically adjust their tint based on the sunlight's intensity are now standard, maximizing natural light while minimizing heat gain. The ongoing construction is part of a city-wide initiative to update all buildings with such smart materials, as well as to integrate green infrastructure and technology into the existing urban fabric.
