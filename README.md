@@ -105,6 +105,8 @@ Under the disciplined society scenario, the urban environment becomes a testamen
 
 ### Iteration 2 -  Modmatrix to [Crystal Ball interface]([url](https://cf29aa08-d62a-4638-b6fe-70e988a8ca24-00-1orgv5sc0cs9a.riker.replit.dev/))
 
+https://cf29aa08-d62a-4638-b6fe-70e988a8ca24-00-1orgv5sc0cs9a.riker.replit.dev/
+
 ![Screenshot 2024-03-08 154729](https://github.com/sophma/microchallenge2/assets/147055292/98753a1c-0ae6-4d5f-8802-96920c7a81c5)
 
 We wanted to make the entire experience automatic for users who do not have ChatGPT 4 so we decided to created an interface that would integrate the entire process. We used Modmatrix's source code and adapted it to create our own Crystal Ball interface on Replit. We used OpenAI's API to describe the input image and undertake the foresight analysis based on the EU policy documents but we couldn't use the stable diffusion model to create the future image as it wasn't open source. So we found another image to image model on [replicate]([url](https://replicate.com/stability-ai/sdxl)https://replicate.com/stability-ai/sdxl) that could be integrated in the interface with an API. As the ultimate aim was to showcase this future scenario through an immersive experience, we worked with 360-like images.
