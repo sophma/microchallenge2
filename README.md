@@ -6,7 +6,7 @@ Jorge, Sophie and Dhrishya
 
 ### Initial Interests
 
-![Screenshot 2024-03-08 141203](https://github.com/sophma/microchallenge2/assets/147055292/01246612-d7fb-4fd8-8c1f-30c69fea2830)
+![Screenshot 2024-03-08 162049](https://github.com/sophma/microchallenge2/assets/147055292/654bfc1e-1ea7-4007-b145-c38483291759)
 
 We formed our group based on our common interests of speculative future visualisation, better policymaking and civic engagement and the potential of emerging generative AI technilogies.
 
