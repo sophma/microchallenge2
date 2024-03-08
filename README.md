@@ -44,7 +44,7 @@ We first wanted to go through the entire process with a custom bot built on Chat
 ![WhatsApp Image 2024-03-06 at 10 34 53 (1)](https://github.com/sophma/microchallenge2/assets/147055292/66ff4323-3204-46ef-bd4a-18499b49d33d)
 ![32185232-aa1b-4440-8454-bee88d2ce343](https://github.com/sophma/microchallenge2/assets/147055292/66f9cb23-26c6-4f5e-a7a6-9a2ebad75fc9)
 ![df62b106-d833-40d5-b03a-6e748293070b](https://github.com/sophma/microchallenge2/assets/147055292/5a1e4548-3c8e-442f-a895-bc93c7c4365f)
-![df62b106-d833-40d5-b03a-6e748293070b](https://github.com/sophma/microchallenge2/assets/147055292/2ae75703-da9d-4a2a-be32-c562a7e74b49)
+
 
 ### Iteration 2 -  Modmatrix to Crystal Ball interface
 
@@ -58,8 +58,10 @@ We wanted to make the entire experience automatic for users who do not have Chat
 Original image: 
 ![b4f72323-4729-487a-90cf-ca627cffdb7d](https://github.com/sophma/microchallenge2/assets/147055292/88215f05-5575-429d-84d2-cf7d916f7dbb)
 
+
 Original image + video: 
 ![b4f72323-4729-487a-90cf-ca627cffdb7d](https://github.com/sophma/microchallenge2/assets/147055292/4efafeb9-fa63-4bc5-a87e-a867433cdac4)
+
 
 Transformed image: 
 ![2831beaa-f6d7-4169-a036-5a651f2367a0](https://github.com/sophma/microchallenge2/assets/147055292/72cb11c0-0924-479e-8577-5c57a713adf4)
