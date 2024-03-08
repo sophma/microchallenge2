@@ -43,6 +43,9 @@ We first wanted to go through the entire process with a custom bot built on Chat
 
 #### Custom GPT output:
 
+**Image Input:**
+![WhatsApp Image 2024-03-06 at 10 34 53 (1)](https://github.com/sophma/microchallenge2/assets/147055292/66ff4323-3204-46ef-bd4a-18499b49d33d)
+
 **Image Description:**
 
 The image depicts an urban street scene on what appears to be a sunny day with a mix of clouds. On the left side of the street, there are leafless trees, indicating either winter or early spring before the foliage has returned. There is a street lamp and a small red building with large glass windows, resembling a shop or small commercial building. On the right side, there are taller buildings, seemingly residential or commercial, with a mixture of architectural styles and states of maintenance. One of the buildings is undergoing construction or renovation, as indicated by the scaffolding on its facade. The street itself is quite busy with a row of parked motorcycles at the forefront, a taxi, and other vehicles further down the road. There is a clear pedestrian crossing leading towards the buildings. The image gives an impression of a bustling urban area during a non-peak time of the day.
@@ -93,8 +96,10 @@ Transportation has been revolutionized, with the taxi and personal vehicles repl
 
 Under the disciplined society scenario, the urban environment becomes a testament to the possibilities of stringent planning, technological integration, and communal effort towards achieving a sustainable and orderly future. This scenario underscores the role of effective governance and the collective adoption of sustainable practices in shaping urban areas to be resilient and in harmony with broader environmental goals.
 
-![WhatsApp Image 2024-03-06 at 10 34 53 (1)](https://github.com/sophma/microchallenge2/assets/147055292/66ff4323-3204-46ef-bd4a-18499b49d33d)
+**OpenAI Future Image Output:**
 ![32185232-aa1b-4440-8454-bee88d2ce343](https://github.com/sophma/microchallenge2/assets/147055292/66f9cb23-26c6-4f5e-a7a6-9a2ebad75fc9)
+
+**Stable Diffusion Image Output:**
 ![df62b106-d833-40d5-b03a-6e748293070b](https://github.com/sophma/microchallenge2/assets/147055292/5a1e4548-3c8e-442f-a895-bc93c7c4365f)
 
 ### Iteration 2 -  Modmatrix to Crystal Ball interface
