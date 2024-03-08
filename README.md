@@ -37,7 +37,8 @@ https://www.researchgate.net/publication/228380947_Alternative_futures_at_the_Ma
 
 ### Iteration 1 - Cystal Ball Custom GPT
 
-![Screenshot 2024-03-08 151854](https://github.com/sophma/microchallenge2/assets/147055292/19d0e685-47e0-415a-8861-23d3c57bb8bd)
+![Screenshot 2024-03-08 163057](https://github.com/sophma/microchallenge2/assets/147055292/d1a51b89-a30b-42a7-891f-04270a121017)
+
 
 We first wanted to go through the entire process with a custom bot built on ChatGPT 4 to test the workflow and see if we could get to a final output. We trained a custom bot with Dator and Smart's future archetypes foresight methodology and gave the EU policy documents as input (Renovation Wave, EU Circular Economy Plan, Smart and Sustainable Mobility Strategy, New EU Bauhaus). The bot was trained to perform a foresight analysis based on the EU policy documents  We had to reconfigure the bot several times to get to the optimal output. As we weren't satisfied with OpenAI's future image output, we decided to use another [AI model]([url](https://huggingface.co/spaces/tonyassi/image-to-image-SDXL)) using stable diffusion, which was better at doing image to image outputs. 
 
