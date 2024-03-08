@@ -103,7 +103,7 @@ Under the disciplined society scenario, the urban environment becomes a testamen
 **Stable Diffusion Image Output:**
 ![df62b106-d833-40d5-b03a-6e748293070b](https://github.com/sophma/microchallenge2/assets/147055292/5a1e4548-3c8e-442f-a895-bc93c7c4365f)
 
-### Iteration 2 -  Modmatrix to Crystal Ball interface
+### Iteration 2 -  Modmatrix to [Crystal Ball interface]([url](https://cf29aa08-d62a-4638-b6fe-70e988a8ca24-00-1orgv5sc0cs9a.riker.replit.dev/))
 
 ![Screenshot 2024-03-08 154729](https://github.com/sophma/microchallenge2/assets/147055292/98753a1c-0ae6-4d5f-8802-96920c7a81c5)
 
