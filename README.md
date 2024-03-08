@@ -136,4 +136,9 @@ We think there is a lot of potential for this project as this can bring in more 
 As the state-of-the-art technology evolves, we want to create different ways to showcase this future scenario to enable different feedback processes: through virtual reality, through video, through image portals in the city, through physical objects present in the virtual scenarios etc.
 We also want to create experiences where different types of stakeholders could provide feedback, and automatize the feedback collection.
 We want to reach out to stakeholders of relevance in the policy sector and in the civic community to test our product.
+
+API key: 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
+Replicate key: r8_WzHcVIczt0CY0MHmxHcjuui1qCzUpMR11KrEC
+
+
  
