@@ -8,7 +8,7 @@ Jorge, Sophie and Dhrishya
 
 ![Screenshot 2024-03-08 162049](https://github.com/sophma/microchallenge2/assets/147055292/654bfc1e-1ea7-4007-b145-c38483291759)
 
-We formed our group based on our common interests of speculative future visualisation, better policymaking and civic engagement and the potential of emerging generative AI technilogies.
+We formed our group based on our common interests of speculative future visualisation, better policymaking and civic engagement and the potential of emerging generative AI technologies.
 
 ### Concept
 
@@ -30,8 +30,10 @@ https://foresightguide.com/dator-four-futures/
 https://www.researchgate.net/publication/228380947_Alternative_futures_at_the_Manoa_School
 
 ### Planning
+![Screenshot 2024-04-01 222540](https://github.com/sophma/microchallenge2/assets/147055292/66d38ae1-2bd3-4c6e-bdc2-1d4e36e64801)
 
 ### Integrated Design
+As we wanted to make the tool accessible to a maximum number of people, we decided to opt for an immersive experience that could be accessed through the phone instead of VR glasses. The images of future scenarios were obtained thanks to generative AI, but then we used the website [glitch]([url](https://glitch.com/)) to create virtual environments that can be accessed through a link. We also built an automated and integrated version of the entire process with Modmatrix, so that anyone could generate future scenarios on their own.
 
 ## Process
 
@@ -124,8 +126,6 @@ Transformed image:
 ![2831beaa-f6d7-4169-a036-5a651f2367a0](https://github.com/sophma/microchallenge2/assets/147055292/72cb11c0-0924-479e-8577-5c57a713adf4)
 
 
-### Code
-
 ### Final Conclusions
 The technology needs to be more mature for the experience to become optimal. The product will evolve as the AI models used evolve.
 We think there is a lot of potential for this project as this can bring in more experimental approaches to policymaking and decisionmaking overall, as this could also be used in other environments. By making the feedback mechanism more immersive, this tool can also help citizens be more aware and involved in policy as it makes policy jargon more accessible.
@@ -134,6 +134,11 @@ We think there is a lot of potential for this project as this can bring in more 
 As the state-of-the-art technology evolves, we want to create different ways to showcase this future scenario to enable different feedback processes: through virtual reality, through video, through image portals in the city, through physical objects present in the virtual scenarios etc.
 We also want to create experiences where different types of stakeholders could provide feedback, and automatize the feedback collection.
 We want to reach out to stakeholders of relevance in the policy sector and in the civic community to test our product.
+
+### Summary of Problems Encountered
+- OpenAI did not produce the expected visualisations of future scenarios. All images rendered by the custom bot were similar as the bot could not understand that modifications should be done to the original picture. To overcome this challenge, we used a stable diffusion AI model which gave much better images.
+- Coding the Crystal Ball Modmatrix was more challenging than expected. We ran into the problem of having too many tokens requested for the type of API we had, so the future scenarios could not be generated. To be able to finalise the tool, we had to pay to upgrade our API access, which we decided not to do.
+
 
 
 
