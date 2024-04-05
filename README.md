@@ -139,6 +139,8 @@ We want to reach out to stakeholders of relevance in the policy sector and in th
 - OpenAI did not produce the expected visualisations of future scenarios. All images rendered by the custom bot were similar as the bot could not understand that modifications should be done to the original picture. To overcome this challenge, we used a stable diffusion AI model which gave much better images.
 - Coding the Crystal Ball Modmatrix was more challenging than expected. We ran into the problem of having too many tokens requested for the type of API we had, so the future scenarios could not be generated. To be able to finalise the tool, we had to pay to upgrade our API access, which we decided not to do.
 
+### Design boundaries and personal contributions
+This project is a reflection of the complementarity of each member of our team: coming from a policy background, I contributed to the policy angle of the project and the different policy programmes that needed to be fed to the AI. Having a bit of experience with coding, I also contributed to the design of the Crystal Ball tool. Jorge has significant experience in foresight studies and emerging technologies and contributed significantly to the technical and methodological aspects of the project, including coding the Crystal Ball tool. Having more experience with computational modeling, Dhrishya contributed to the visualisation of images as well as research.
 
 
 
